@@ -25,6 +25,14 @@ This repository contains:
 
 Our smart contracts leverage [OpenZeppelin](https://openzeppelin.com/) libraries to ensure best practices, robust security, and modularity. OpenZeppelin's battle-tested frameworks provide a strong foundation for building secure and efficient blockchain applications.
 
+## Official Links
+
+Stay connected and learn more about DeCentry through our official platforms:
+
+- **Website:** [https://decentry.exteam.tech/](https://decentry.exteam.tech/)
+- **Twitter:** [https://x.com/DeCentryX](https://x.com/DeCentryX)
+- **Telegram:** [https://t.me/decentrybsc](https://t.me/decentrybsc)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
