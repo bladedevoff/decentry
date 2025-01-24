@@ -29,7 +29,7 @@ Our smart contracts leverage [OpenZeppelin](https://openzeppelin.com/) libraries
 
 Stay connected and learn more about DeCentry through our official platforms:
 
-- **Website:** [https://decentry.exteam.tech/](https://decentry.exteam.tech/)
+- **Website:** [https://decentry.exteam.tech/](https://decentry.exteam.tech)
 - **Twitter:** [https://x.com/DeCentryX](https://x.com/DeCentryX)
 - **Telegram:** [https://t.me/decentrybsc](https://t.me/decentrybsc)
 
