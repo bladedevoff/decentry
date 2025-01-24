@@ -21,6 +21,10 @@ This repository contains:
 - **Audit Report:** The results of our comprehensive security audit.
 - **Deployment Details:** Information about the contract's deployment on the blockchain.
 
+## Built with OpenZeppelin
+
+Our smart contracts leverage [OpenZeppelin](https://openzeppelin.com/) libraries to ensure best practices, robust security, and modularity. OpenZeppelin's battle-tested frameworks provide a strong foundation for building secure and efficient blockchain applications.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
